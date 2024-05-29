@@ -1,8 +1,10 @@
 # Documents for university students majoring in electronics
-## Documents relates to my study period in university
+## Documents related to my study period in university
 ### Author: DaLQA
 ### Date: 2024-05-29
-- Item 1
+#### Documents inclue:
+--------------------------
+- graduation thesis
 - Item 2
     + Item 2.1
     + Item 2.2
